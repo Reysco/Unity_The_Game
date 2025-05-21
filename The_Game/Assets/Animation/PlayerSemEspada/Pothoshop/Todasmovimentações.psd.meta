@@ -1,0 +1,1392 @@
+fileFormatVersion: 2
+guid: 72c6e15b7e3c0b24394c2be21db870e0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3204483464185102145
+    second: "Todasmovimenta\xE7\xF5es_0"
+  - first:
+      213: -415807794990497859
+    second: "Todasmovimenta\xE7\xF5es_1"
+  - first:
+      213: -9099359140674264864
+    second: "Todasmovimenta\xE7\xF5es_2"
+  - first:
+      213: -8615662298650767066
+    second: "Todasmovimenta\xE7\xF5es_3"
+  - first:
+      213: -2750051395730104406
+    second: "Todasmovimenta\xE7\xF5es_4"
+  - first:
+      213: 5454203478973012949
+    second: "Todasmovimenta\xE7\xF5es_5"
+  - first:
+      213: -1042846867914680081
+    second: "Todasmovimenta\xE7\xF5es_6"
+  - first:
+      213: 6721146339973697460
+    second: "Todasmovimenta\xE7\xF5es_7"
+  - first:
+      213: 5883872523820640711
+    second: "Todasmovimenta\xE7\xF5es_8"
+  - first:
+      213: -7909243559250512954
+    second: "Todasmovimenta\xE7\xF5es_9"
+  - first:
+      213: 2510976215695064987
+    second: "Todasmovimenta\xE7\xF5es_10"
+  - first:
+      213: -4277169099914127699
+    second: "Todasmovimenta\xE7\xF5es_11"
+  - first:
+      213: -2799842449550471234
+    second: "Todasmovimenta\xE7\xF5es_12"
+  - first:
+      213: -6988805880890465633
+    second: "Todasmovimenta\xE7\xF5es_13"
+  - first:
+      213: -6989455285625883698
+    second: "Todasmovimenta\xE7\xF5es_14"
+  - first:
+      213: 6844377858426394395
+    second: "Todasmovimenta\xE7\xF5es_15"
+  - first:
+      213: -1708226785740966193
+    second: "Todasmovimenta\xE7\xF5es_16"
+  - first:
+      213: 4799721622391778634
+    second: "Todasmovimenta\xE7\xF5es_17"
+  - first:
+      213: -8130829505355599018
+    second: "Todasmovimenta\xE7\xF5es_18"
+  - first:
+      213: -1511511064355117572
+    second: "Todasmovimenta\xE7\xF5es_19"
+  - first:
+      213: 4536358154625388804
+    second: "Todasmovimenta\xE7\xF5es_20"
+  - first:
+      213: 7585945838923113365
+    second: "Todasmovimenta\xE7\xF5es_21"
+  - first:
+      213: -4388150682818316635
+    second: "Todasmovimenta\xE7\xF5es_22"
+  - first:
+      213: 1340146440334039162
+    second: "Todasmovimenta\xE7\xF5es_23"
+  - first:
+      213: -2087907142805522381
+    second: "Todasmovimenta\xE7\xF5es_24"
+  - first:
+      213: -6179588261208224418
+    second: "Todasmovimenta\xE7\xF5es_25"
+  - first:
+      213: -8290969394944200822
+    second: "Todasmovimenta\xE7\xF5es_26"
+  - first:
+      213: 7020417540283163610
+    second: "Todasmovimenta\xE7\xF5es_27"
+  - first:
+      213: 2448542259436371305
+    second: "Todasmovimenta\xE7\xF5es_28"
+  - first:
+      213: -5409387646172490753
+    second: "Todasmovimenta\xE7\xF5es_29"
+  - first:
+      213: 4944792530962702314
+    second: "Todasmovimenta\xE7\xF5es_30"
+  - first:
+      213: -1815724690390523174
+    second: "Todasmovimenta\xE7\xF5es_31"
+  - first:
+      213: -247598146844321764
+    second: "Todasmovimenta\xE7\xF5es_32"
+  - first:
+      213: 8665788927160452716
+    second: "Todasmovimenta\xE7\xF5es_33"
+  - first:
+      213: -6631618663905452779
+    second: "Todasmovimenta\xE7\xF5es_34"
+  - first:
+      213: 8062070510193724934
+    second: "Todasmovimenta\xE7\xF5es_35"
+  - first:
+      213: 9095987298058154973
+    second: "Todasmovimenta\xE7\xF5es_36"
+  - first:
+      213: -8877450296451055437
+    second: "Todasmovimenta\xE7\xF5es_37"
+  - first:
+      213: -5763536326846036363
+    second: "Todasmovimenta\xE7\xF5es_38"
+  - first:
+      213: 246998733076128358
+    second: "Todasmovimenta\xE7\xF5es_39"
+  - first:
+      213: 7104305258615375646
+    second: "Todasmovimenta\xE7\xF5es_40"
+  - first:
+      213: -9078821069359817296
+    second: "Todasmovimenta\xE7\xF5es_41"
+  - first:
+      213: -7650207221740655356
+    second: "Todasmovimenta\xE7\xF5es_42"
+  - first:
+      213: 717678586929207242
+    second: "Todasmovimenta\xE7\xF5es_43"
+  - first:
+      213: -4008219994426033761
+    second: "Todasmovimenta\xE7\xF5es_44"
+  - first:
+      213: 5495942119611554983
+    second: "Todasmovimenta\xE7\xF5es_45"
+  - first:
+      213: 2668665787696767231
+    second: "Todasmovimenta\xE7\xF5es_46"
+  - first:
+      213: 3445617316561172676
+    second: "Todasmovimenta\xE7\xF5es_47"
+  - first:
+      213: 3945353101991583619
+    second: "Todasmovimenta\xE7\xF5es_48"
+  - first:
+      213: -8354697362326319027
+    second: "Todasmovimenta\xE7\xF5es_49"
+  - first:
+      213: 3183650667123969809
+    second: "Todasmovimenta\xE7\xF5es_50"
+  - first:
+      213: 3373308254074399453
+    second: "Todasmovimenta\xE7\xF5es_51"
+  - first:
+      213: -8211602182459834832
+    second: "Todasmovimenta\xE7\xF5es_52"
+  - first:
+      213: 2093989643530096022
+    second: "Todasmovimenta\xE7\xF5es_53"
+  - first:
+      213: -1843143005519630551
+    second: "Todasmovimenta\xE7\xF5es_54"
+  - first:
+      213: -2006036895247126330
+    second: "Todasmovimenta\xE7\xF5es_55"
+  - first:
+      213: 1217155974404370794
+    second: "Todasmovimenta\xE7\xF5es_56"
+  - first:
+      213: -3857833369303855183
+    second: "Todasmovimenta\xE7\xF5es_57"
+  - first:
+      213: 8487405196108096665
+    second: "Todasmovimenta\xE7\xF5es_58"
+  - first:
+      213: -7333425083933789604
+    second: "Todasmovimenta\xE7\xF5es_59"
+  - first:
+      213: 1060558898882394083
+    second: "Todasmovimenta\xE7\xF5es_60"
+  - first:
+      213: 7390063360619841289
+    second: "Todasmovimenta\xE7\xF5es_61"
+  - first:
+      213: -3463338983223344081
+    second: "Todasmovimenta\xE7\xF5es_62"
+  - first:
+      213: -1703727200248749230
+    second: "Todasmovimenta\xE7\xF5es_63"
+  - first:
+      213: -708472422235908089
+    second: "Todasmovimenta\xE7\xF5es_64"
+  - first:
+      213: -4273447236293051121
+    second: "Todasmovimenta\xE7\xF5es_65"
+  - first:
+      213: -7649494349224198860
+    second: "Todasmovimenta\xE7\xF5es_66"
+  - first:
+      213: 4599797111249642678
+    second: "Todasmovimenta\xE7\xF5es_67"
+  - first:
+      213: 6756473476068130634
+    second: "Todasmovimenta\xE7\xF5es_68"
+  - first:
+      213: 8985501766683513338
+    second: "Todasmovimenta\xE7\xF5es_69"
+  - first:
+      213: -4816128872396423398
+    second: "Todasmovimenta\xE7\xF5es_70"
+  - first:
+      213: -82581492955996971
+    second: "Todasmovimenta\xE7\xF5es_71"
+  - first:
+      213: -5219479525278168050
+    second: "Todasmovimenta\xE7\xF5es_72"
+  - first:
+      213: 3919126063241534730
+    second: "Todasmovimenta\xE7\xF5es_73"
+  - first:
+      213: 1269308266205459817
+    second: "Todasmovimenta\xE7\xF5es_74"
+  - first:
+      213: 1089253815294913028
+    second: "Todasmovimenta\xE7\xF5es_75"
+  - first:
+      213: -5845547711026466632
+    second: "Todasmovimenta\xE7\xF5es_76"
+  - first:
+      213: -6548513814680488158
+    second: "Todasmovimenta\xE7\xF5es_77"
+  - first:
+      213: 1064180419640458671
+    second: "Todasmovimenta\xE7\xF5es_78"
+  - first:
+      213: -8572242904923899740
+    second: "Todasmovimenta\xE7\xF5es_79"
+  - first:
+      213: 228070490688848808
+    second: "Todasmovimenta\xE7\xF5es_80"
+  - first:
+      213: -2484972014364633697
+    second: "Todasmovimenta\xE7\xF5es_81"
+  - first:
+      213: 5846260716936160676
+    second: "Todasmovimenta\xE7\xF5es_82"
+  - first:
+      213: 4644196334864334943
+    second: "Todasmovimenta\xE7\xF5es_83"
+  - first:
+      213: 4826156921969565870
+    second: "Todasmovimenta\xE7\xF5es_84"
+  - first:
+      213: -2851028417206391355
+    second: "Todasmovimenta\xE7\xF5es_85"
+  - first:
+      213: -3587403146388719423
+    second: "Todasmovimenta\xE7\xF5es_86"
+  - first:
+      213: 3198774102527452238
+    second: "Todasmovimenta\xE7\xF5es_87"
+  - first:
+      213: -4465854607826847254
+    second: "Todasmovimenta\xE7\xF5es_88"
+  - first:
+      213: -6057925076912650111
+    second: "Todasmovimenta\xE7\xF5es_89"
+  - first:
+      213: -1103747816143136891
+    second: "Todasmovimenta\xE7\xF5es_90"
+  - first:
+      213: 2430192099722452044
+    second: "Todasmovimenta\xE7\xF5es_91"
+  - first:
+      213: 3144303952821728842
+    second: "Todasmovimenta\xE7\xF5es_92"
+  - first:
+      213: 1661378527511642178
+    second: "Todasmovimenta\xE7\xF5es_93"
+  - first:
+      213: 8785936488476875934
+    second: "Todasmovimenta\xE7\xF5es_94"
+  - first:
+      213: 7544753062791674559
+    second: "Todasmovimenta\xE7\xF5es_95"
+  - first:
+      213: 6819746531678701631
+    second: "Todasmovimenta\xE7\xF5es_96"
+  - first:
+      213: -3740976764372369783
+    second: "Todasmovimenta\xE7\xF5es_97"
+  - first:
+      213: -8617190168129309327
+    second: "Todasmovimenta\xE7\xF5es_98"
+  - first:
+      213: -2446424110470400611
+    second: "Todasmovimenta\xE7\xF5es_99"
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Todasmovimenta\xE7\xF5es_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.3366292, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fd69072b8cb7e4fae0ae703adec39c
+      internalID: 3204483464185102145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Todasmovimenta\xE7\xF5es_1"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.3366292, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf6f40f52fbcac489717f910396e23f
+      internalID: -415807794990497859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Todasmovimenta\xE7\xF5es_2"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.3366292, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2534d68fd80a61146b166022f8699d34
+      internalID: -9099359140674264864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Todasmovimenta\xE7\xF5es_3"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.3366292, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7969c86b148edcf429a2e46e09dda85c
+      internalID: -8615662298650767066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Todasmovimenta\xE7\xF5es_4"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.3366292, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b587a6a254f164e40b57cd2e00055a3b
+      internalID: -2750051395730104406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Todasmovimenta\xE7\xF5es_5"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.3366292, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5ead09bbb1a7740a6f21d6e171ff51
+      internalID: 5454203478973012949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Todasmovimenta\xE7\xF5es_6"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.3366292, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04d74246947fea4dad3aa277c137581
+      internalID: -1042846867914680081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Todasmovimenta\xE7\xF5es_7"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.3366292, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 674617c9d04c8954b9f3df56fdc0c7fa
+      internalID: 6721146339973697460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Todasmovimenta\xE7\xF5es_8"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.3366292, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54d33321a25fa9439c82fb886777bb1
+      internalID: 5883872523820640711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Todasmovimenta\xE7\xF5es_9"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.3366292, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439b447926710d244b0847d340401bca
+      internalID: -7909243559250512954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Todasmovimenta\xE7\xF5es_10"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.3366292, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0e2e3abc184764a930dd0d709ba75e
+      internalID: 2510976215695064987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Todasmovimenta\xE7\xF5es_11"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.3366292, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fe1ab7456b6fe4897ddd174fca7773
+      internalID: -4277169099914127699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Todasmovimenta\xE7\xF5es_12"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.3366292, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a55d69e0361b5045b4817f10f5c2d37
+      internalID: -2799842449550471234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Todasmovimenta\xE7\xF5es_13"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.3366292, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab52997f53f299488023cf20f866d0f
+      internalID: -6988805880890465633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Todasmovimenta\xE7\xF5es_14"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.3366292, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1450fa81d8ade46ac01220e6c73cdc
+      internalID: -6989455285625883698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Todasmovimenta\xE7\xF5es_15"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.3366292, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5526a193992c5b4c8c571c2230d29d2
+      internalID: 6844377858426394395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Todasmovimenta\xE7\xF5es_16"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.3366292, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868d4c9eebf212640b393462a8272651
+      internalID: -1708226785740966193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Todasmovimenta\xE7\xF5es_17"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.3366292, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969ed6aa1ea221c4f81c0a1de81d5de1
+      internalID: 4799721622391778634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Todasmovimenta\xE7\xF5es_18"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.3366292, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1896dd7fb77912468ba446ec1372a54
+      internalID: -8130829505355599018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Todasmovimenta\xE7\xF5es_19"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.3366292, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0898797f54d099245a86c4f2db558d54
+      internalID: -1511511064355117572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Todasmovimenta\xE7\xF5es_20"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.3366292, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ccd071e381a2b4487522e42a9959f7
+      internalID: 4536358154625388804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Todasmovimenta\xE7\xF5es_21"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.3366292, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17897ebe52850454cb2bee07f9341381
+      internalID: 7585945838923113365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Todasmovimenta\xE7\xF5es_22"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.3366292, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae9d6d62716ae84d823740aeb553afd
+      internalID: -4388150682818316635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Todasmovimenta\xE7\xF5es_23"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.3366292, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b63848a95e9d14bb9db713a8b0f71c
+      internalID: 1340146440334039162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Todasmovimenta\xE7\xF5es_24"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.3366292, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68845af9c414dc645b141eef26d466e4
+      internalID: -2087907142805522381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Todasmovimenta\xE7\xF5es_25"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.3366292, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a69d2f9378e62c4d87d7b1dd7e65e07
+      internalID: -6179588261208224418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Todasmovimenta\xE7\xF5es_26"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.3366292, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b5ec0b5291a343428ec340c4fcefa98
+      internalID: -8290969394944200822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Todasmovimenta\xE7\xF5es_27"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.3366292, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaedc4a0d8f42e3488abf3b60e9e7074
+      internalID: 7020417540283163610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Todasmovimenta\xE7\xF5es_28"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.3366292, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87a988cc6cff0841abdc99442c371af
+      internalID: 2448542259436371305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Todasmovimenta\xE7\xF5es_29"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.3366292, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb38a1caab2cd4a47b24febb9569e173
+      internalID: -5409387646172490753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Todasmovimenta\xE7\xF5es_30"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.3366292, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9e983dcc1320248aa6aab78c4f5ffc
+      internalID: 4944792530962702314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Todasmovimenta\xE7\xF5es_31"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.3366292, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cb8e3d336393cd4a801ef8509e0f252
+      internalID: -1815724690390523174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Todasmovimenta\xE7\xF5es_32"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.3366292, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109508aa369298347b2c69a98b734002
+      internalID: -247598146844321764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Todasmovimenta\xE7\xF5es_33"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.3366292, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58bdb476dd8463540a4e13dd8f3c93d7
+      internalID: 8665788927160452716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Todasmovimenta\xE7\xF5es_34"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.3366292, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6df9bc0f62545c43885f91092bf894b
+      internalID: -6631618663905452779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Todasmovimenta\xE7\xF5es_35"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.3366292, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110d1ce58f8752c4aab9847219520fb3
+      internalID: 8062070510193724934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Todasmovimenta\xE7\xF5es_36"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.3366292, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988601de7ba4fd041a0adb38751ecb7c
+      internalID: 9095987298058154973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Todasmovimenta\xE7\xF5es_37"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.3366292, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80d3c14ccc8594e408cc0a854051a04e
+      internalID: -8877450296451055437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Todasmovimenta\xE7\xF5es_38"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.3366292, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c9152784a390c46bb3db8008448159
+      internalID: -5763536326846036363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Todasmovimenta\xE7\xF5es_39"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.3366292, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d311e3f5ca3cfc84a8799f0bc20c10e0
+      internalID: 246998733076128358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Todasmovimenta\xE7\xF5es_40"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.3366292, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb1a0551e02d874c81c7fa25b90cbf3
+      internalID: 7104305258615375646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Todasmovimenta\xE7\xF5es_41"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.3366292, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d99dd22f104c54f82a898096033f5d
+      internalID: -9078821069359817296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Todasmovimenta\xE7\xF5es_42"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.3366292, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9456be55a1f2d2e499ac0ad2d9e9db58
+      internalID: -7650207221740655356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Todasmovimenta\xE7\xF5es_43"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.3366292, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2f849f1dbb14942a9864eb3056fe8a
+      internalID: 717678586929207242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "Todasmovimenta\xE7\xF5es_9": -7909243559250512954
+      "Todasmovimenta\xE7\xF5es_43": 717678586929207242
+      "Todasmovimenta\xE7\xF5es_5": 5454203478973012949
+      "Todasmovimenta\xE7\xF5es_12": -2799842449550471234
+      "Todasmovimenta\xE7\xF5es_4": -2750051395730104406
+      "Todasmovimenta\xE7\xF5es_19": -1511511064355117572
+      "Todasmovimenta\xE7\xF5es_27": 7020417540283163610
+      "Todasmovimenta\xE7\xF5es_14": -6989455285625883698
+      "Todasmovimenta\xE7\xF5es_25": -6179588261208224418
+      "Todasmovimenta\xE7\xF5es_35": 8062070510193724934
+      "Todasmovimenta\xE7\xF5es_21": 7585945838923113365
+      "Todasmovimenta\xE7\xF5es_33": 8665788927160452716
+      "Todasmovimenta\xE7\xF5es_11": -4277169099914127699
+      "Todasmovimenta\xE7\xF5es_36": 9095987298058154973
+      "Todasmovimenta\xE7\xF5es_7": 6721146339973697460
+      "Todasmovimenta\xE7\xF5es_22": -4388150682818316635
+      "Todasmovimenta\xE7\xF5es_39": 246998733076128358
+      "Todasmovimenta\xE7\xF5es_30": 4944792530962702314
+      "Todasmovimenta\xE7\xF5es_41": -9078821069359817296
+      "Todasmovimenta\xE7\xF5es_6": -1042846867914680081
+      "Todasmovimenta\xE7\xF5es_8": 5883872523820640711
+      "Todasmovimenta\xE7\xF5es_10": 2510976215695064987
+      "Todasmovimenta\xE7\xF5es_26": -8290969394944200822
+      "Todasmovimenta\xE7\xF5es_24": -2087907142805522381
+      "Todasmovimenta\xE7\xF5es_16": -1708226785740966193
+      "Todasmovimenta\xE7\xF5es_0": 3204483464185102145
+      "Todasmovimenta\xE7\xF5es_31": -1815724690390523174
+      "Todasmovimenta\xE7\xF5es_23": 1340146440334039162
+      "Todasmovimenta\xE7\xF5es_2": -9099359140674264864
+      "Todasmovimenta\xE7\xF5es_17": 4799721622391778634
+      "Todasmovimenta\xE7\xF5es_32": -247598146844321764
+      "Todasmovimenta\xE7\xF5es_37": -8877450296451055437
+      "Todasmovimenta\xE7\xF5es_28": 2448542259436371305
+      "Todasmovimenta\xE7\xF5es_1": -415807794990497859
+      "Todasmovimenta\xE7\xF5es_18": -8130829505355599018
+      "Todasmovimenta\xE7\xF5es_13": -6988805880890465633
+      "Todasmovimenta\xE7\xF5es_38": -5763536326846036363
+      "Todasmovimenta\xE7\xF5es_3": -8615662298650767066
+      "Todasmovimenta\xE7\xF5es_42": -7650207221740655356
+      "Todasmovimenta\xE7\xF5es_20": 4536358154625388804
+      "Todasmovimenta\xE7\xF5es_34": -6631618663905452779
+      "Todasmovimenta\xE7\xF5es_15": 6844377858426394395
+      "Todasmovimenta\xE7\xF5es_29": -5409387646172490753
+      "Todasmovimenta\xE7\xF5es_40": 7104305258615375646
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
